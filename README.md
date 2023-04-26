@@ -13,3 +13,4 @@ Web Application URl - https://shoe-store-frontend-backend-c5s9yrvd9-suchitraswai
 5. Vercel - Frontend development
 6. Tailwind CSS
 7. Server side rendering (SSR, SSG) in Next.js
+8. Strip - Payment gateway
